@@ -1,8 +1,7 @@
-let myName = 'leticia';
-let birthCity = 'rioGrande';
-let birthYear = 1979;
-myName = 'Leticia';
+let base = 5;
+let heigth = 8;
+let area = base * heigth;
 
-console.log(myName);
-console.log(birthCity);
-console.log(birthYear);
+console.log(area);
+
+
