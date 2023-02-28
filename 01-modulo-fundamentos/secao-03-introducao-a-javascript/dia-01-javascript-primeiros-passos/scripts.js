@@ -1,7 +1,12 @@
-let base = 5;
-let heigth = 8;
-let area = base * heigth;
+let a = 43;
+let b = 65;
 
-console.log(area);
+console.log(a + b);
 
+console.log(a - b);
 
+console.log(a * b);
+
+console.log(a / b);
+
+console.log(a % b);
